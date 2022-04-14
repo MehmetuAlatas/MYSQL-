@@ -1,1 +1,1 @@
-"# bilgin_ipek"  
+"all subjects"  
